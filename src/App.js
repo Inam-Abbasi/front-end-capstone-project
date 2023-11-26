@@ -3,9 +3,9 @@ import "./App.css";
 
 function App() {
   return (
-    <div className="App">
+    <Header className="App">
       <header className="App-header">Header Element</header>
-    </div>
+    </Header>
   );
 }
 
